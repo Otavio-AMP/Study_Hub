@@ -12,7 +12,8 @@ Study Hub é uma aplicação web gratuita voltada para a organização de assunt
 * JavaScript
 
 **Backend**
-* Python - Framework Django
+* Python 3.14
+    * Framework Django
 
 Criação de conta para armazenamento de dados em nuvem.
 Completamente Open-Source e gratuito.
